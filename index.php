@@ -1,8 +1,10 @@
 <?php 
 //Setting
 
+//Taruh Token Di Sini
 $lineapi = "GuXdMmO1ToHWI3KTUk2SlxxcqC0La6zWOy1dQFtVLdC";
 
+//Taruh Pesan Di Sini
 $mms = "Halo Apa Kabar";
 
 $chOne = curl_init(); 
